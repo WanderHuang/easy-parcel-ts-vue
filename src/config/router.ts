@@ -14,6 +14,16 @@ export default new Router({
       path: '/route2',
       // @ts-ignore
       component: () => import('@/components/route2.vue')
+    },
+    {
+      path: '/rx',
+      // @ts-ignore
+      component: () => import('@/components/rx.vue')
+    },
+    {
+      path: '/calendarCss',
+      // @ts-ignore
+      component: () => import('@/components/calendarCss.vue')
     }
   ]
 });

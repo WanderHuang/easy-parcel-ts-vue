@@ -1,9 +1,13 @@
 import Vue from 'vue';
+import VueRx from 'vue-rx';
 
 // @ts-ignore
 import app from '@/App.vue';
 import router from '@/config/router';
 import store from '@/config/store';
+
+// set plugin
+Vue.use(VueRx);
 
 new Vue({
   router,
