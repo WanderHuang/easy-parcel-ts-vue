@@ -222,9 +222,9 @@
 5. Example GIF
 
     Vue-Router Vuex
-   ![示0例GIF](assets/parcel-ts-vue.gif)
+       ![示0例GIF](assets/parcel-ts-vue.gif)
     Calendar-Hover-Css
-   ![示0例GIF](assets/calendar-css.gif)
+       ![示0例GIF](assets/calendar-css.gif)
 
 6. Why `parcel-ts-vue`?
 
@@ -236,3 +236,7 @@
 
    * maybe add `test` framework.
    * maybe more advanced techniques will be integrated
+
+8. CHANGE LOG
+
+    1. 20181229: add `rxjs` & `vue-rx`，learn how to 'stream it'. Make a shining box like calendar of win10😄
