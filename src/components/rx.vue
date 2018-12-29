@@ -7,7 +7,6 @@
   </div>
 </template>
 <script lang="ts">
-import axios from 'axios';
 import RX, { fromEvent, interval, Observable, of, Subject } from 'rxjs';
 import { debounceTime, delay, every, map, scan, startWith } from 'rxjs/operators';
 import Vue from 'vue';
