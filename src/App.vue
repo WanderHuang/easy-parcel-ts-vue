@@ -6,6 +6,7 @@
       <router-link to="/route2">route2</router-link>
       <router-link to="/rx">rx</router-link>
       <router-link to="/calendarCss">calendarCss</router-link>
+      <router-link to="/worker">worker</router-link>
     </section>
     <section>
       <router-view></router-view>
