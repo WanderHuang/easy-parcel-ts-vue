@@ -5,6 +5,7 @@ import VueRx from 'vue-rx';
 import app from '@/App.vue';
 import router from '@/config/router';
 import store from '@/config/store';
+import 'normalize.css';
 
 // set plugin
 Vue.use(VueRx);

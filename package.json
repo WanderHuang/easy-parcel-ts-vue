@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@babel/preset-env": "^7.2.3",
+    "@tensorflow/tfjs": "^0.14.1",
     "autoprefixer": "^9.4.3",
     "immutable": "^4.0.0-rc.12",
     "rxjs": "^6.3.3",
@@ -29,6 +30,7 @@
     "@vue/component-compiler-utils": "^2.3.1",
     "babel-plugin-module-resolver": "^3.1.1",
     "less": "^3.9.0",
+    "normalize.css": "^8.0.1",
     "parcel-bundler": "^1.11.0",
     "tslint": "^5.12.0",
     "typescript": "^3.2.2",

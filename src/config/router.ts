@@ -29,6 +29,11 @@ export default new Router({
       path: '/worker',
       // @ts-ignore
       component: () => import('@/components/worker.vue')
+    },
+    {
+      path: '/tfjs',
+      // @ts-ignore
+      component: () => import('@/components/tfjs.vue')
     }
   ]
 });
