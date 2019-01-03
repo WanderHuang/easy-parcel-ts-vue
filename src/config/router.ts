@@ -34,6 +34,11 @@ export default new Router({
       path: '/tfjs',
       // @ts-ignore
       component: () => import('@/components/tfjs.vue')
+    },
+    {
+      path: '/calendar',
+      // @ts-ignore
+      component: () => import('@/components/calendar.vue')
     }
   ]
 });

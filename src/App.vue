@@ -9,6 +9,7 @@
         <router-link to="/calendarCss">calendarCss</router-link>
         <router-link to="/worker">worker</router-link>
         <router-link to="/tfjs">tfjs</router-link>
+        <router-link to="/calendar">calendar</router-link>
       </div>
       <section class="view">
         <router-view></router-view>
