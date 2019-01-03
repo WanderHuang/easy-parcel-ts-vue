@@ -224,7 +224,15 @@
    路由 状态管理
    ![示0例GIF](assets/parcel-ts-vue.gif)
     win10 日历hover效果
+
+
+
    ![示0例GIF](assets/calendar-css.gif)
+
+
+   日历示例
+
+   ![日历gif](assets/calendar-demo.gif)
 
 6. 为什么是`parcel-ts-vue`?
 

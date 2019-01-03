@@ -224,7 +224,15 @@
     Vue-Router Vuex
        ![示0例GIF](assets/parcel-ts-vue.gif)
     Calendar-Hover-Css
-       ![示0例GIF](assets/calendar-css.gif)
+
+
+
+    ![示0例GIF](assets/calendar-css.gif)
+
+
+    calendar demo
+
+    ![calendar demo](assets/calendar-demo.gif)
 
 6. Why `parcel-ts-vue`?
 
