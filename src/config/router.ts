@@ -39,6 +39,11 @@ export default new Router({
       path: '/calendar',
       // @ts-ignore
       component: () => import('@/components/calendar.vue')
+    },
+    {
+      path: '/tetris',
+      // @ts-ignore
+      component: () => import('@/components/tetris.vue')
     }
   ]
 });

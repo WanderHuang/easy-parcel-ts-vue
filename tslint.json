@@ -11,6 +11,7 @@
     "no-console": false,
     "object-literal-sort-keys": false,
     "array-type": false,
-    "max-line-length": false
+    "max-line-length": false,
+    "prefer-for-of": false
   }
 }

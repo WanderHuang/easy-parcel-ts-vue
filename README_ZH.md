@@ -234,6 +234,10 @@
 
    ![日历gif](assets/calendar-demo.gif)
 
+   简易的俄罗斯方块模型
+   ![tetris demo](assets/tetris-demo.gif)
+
+
 6. 为什么是`parcel-ts-vue`?
 
    * 新技术往往能够带给我们兴奋感，作为新技术出现的他们，可能让我们写代码更加轻松。（PS：vue 3.0将引入更多特性）

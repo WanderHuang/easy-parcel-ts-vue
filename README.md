@@ -221,18 +221,19 @@
 
 5. Example GIF
 
-    Vue-Router Vuex
-       ![示0例GIF](assets/parcel-ts-vue.gif)
-    Calendar-Hover-Css
+   Vue-Router Vuex
+   ![示0例GIF](assets/parcel-ts-vue.gif)
 
+   Calendar-Hover-Css
 
+   ![示0例GIF](assets/calendar-css.gif)
 
-    ![示0例GIF](assets/calendar-css.gif)
+   calendar demo
 
+   ![日历gif](assets/calendar-demo.gif)
 
-    calendar demo
-
-    ![calendar demo](assets/calendar-demo.gif)
+   easy tetris demo
+   ![tetris demo](assets/tetris-demo.gif)
 
 6. Why `parcel-ts-vue`?
 

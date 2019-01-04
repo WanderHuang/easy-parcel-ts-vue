@@ -10,6 +10,7 @@
         <router-link to="/worker">worker</router-link>
         <router-link to="/tfjs">tfjs</router-link>
         <router-link to="/calendar">calendar</router-link>
+        <router-link to="/tetris">tetris</router-link>
       </div>
       <section class="view">
         <router-view></router-view>
