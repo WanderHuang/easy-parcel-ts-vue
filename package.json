@@ -13,11 +13,13 @@
   },
   "dependencies": {
     "@babel/preset-env": "^7.2.3",
+    "@lkmadushan/vue-tuicalendar": "^0.1.6",
     "@tensorflow/tfjs": "^0.14.1",
     "autoprefixer": "^9.4.3",
     "immutable": "^4.0.0-rc.12",
     "rxjs": "^6.3.3",
     "src": "^1.1.2",
+    "tui-calendar": "^1.10.0",
     "vue": "^2.5.21",
     "vue-hot-reload-api": "^2.3.1",
     "vue-router": "^3.0.2",

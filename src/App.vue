@@ -12,6 +12,7 @@
         <router-link to="/calendar">calendar</router-link>
         <router-link to="/tetris">tetris</router-link>
         <router-link to="/grid">grid</router-link>
+        <router-link to="/tuiCalendar">tui.calendar</router-link>
       </div>
       <section class="view">
         <router-view></router-view>

@@ -49,6 +49,11 @@ export default new Router({
       path: '/grid',
       // @ts-ignore
       component: () => import('@/components/grid.vue')
+    },
+    {
+      path: '/tuiCalendar',
+      // @ts-ignore
+      component: () => import('@/components/tuiCalendar.vue')
     }
   ]
 });
